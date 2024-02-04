@@ -52,7 +52,7 @@ MIDDLEWARE = [
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
-ROOT_URLCONF = "discord.urls"
+ROOT_URLCONF = "chatconnect.urls"
 
 TEMPLATES = [
     {
@@ -72,7 +72,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "discord.wsgi.application"
+WSGI_APPLICATION = "chatconnect.wsgi.application"
 
 
 # Database
