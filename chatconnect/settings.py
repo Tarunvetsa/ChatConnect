@@ -48,6 +48,7 @@ AUTH_USER_MODEL='base.User'
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     "corsheaders.middleware.CorsMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",  # Ensure this is before AuthenticationMiddleware
     "django.middleware.common.CommonMiddleware",
