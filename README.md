@@ -45,12 +45,12 @@ python manage.py runserver
     <td width="50%">      
       <br>
       <p align="center">Feed Home</p>
-      <p align="center"><img src="https://raw.githubusercontent.com/Tarunvetsa/Chatconnect/main/assets/93399138/91541365-19c6-435d-af19-270ffaf5a8e0" alt="home_preview"></p>
+      <p align="center"><img src="https://github.com/Tarunvetsa/Chatconnect/blob/main/home_preview.png" alt="home_preview"></p>
     </td>
     <td width="50%">
       <br>
       <p align="center">Room Conversation Preview</p>
-      <p align="center"><img src="https://raw.githubusercontent.com/Tarunvetsa/Chatconnect/main/assets/93399138/43461d71-2aea-4756-bbba-ab975c18d57d" alt="room-conversation_preview"></p>
+      <p align="center"><img src="https://github.com/Tarunvetsa/Chatconnect/blob/main/room-conversation_preview.png" alt="room-conversation_preview"></p>
     </td>
   </tr>
 </table>
